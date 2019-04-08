@@ -1,12 +1,11 @@
 Before running Assessment_2_200925978.py:
     
-    - PLease ensure that 'authentication.py' and 'languages.py' are downloaded into 
-      working directory.
+    - PLease ensure that 'authentication.py' and 'Language_Library.py' are downloaded 
+      into working directory.
     - Please install tweepy, textblob and tkinter within the command prompt. 
     - Please set up a Twitter API and input your access/consumers tokens and
       secrets into 'authentication.py'.
     
-
 Running this code:
     
 This models runs from a user input GUI. On running the code a window called 
