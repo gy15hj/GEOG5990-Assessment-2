@@ -1,0 +1,22 @@
+Tweet Sentiment Summary
+
+Username: BBCNews
+Language: English
+No. of Tweets Requested: 500
+No. of Tweets Analysed: 500
+Date & Time of Search: 12-01-2019 11:13
+
+Summary Stats: 
+Mean  Max  Min
+0.04  1.0 -1.0
+
+Sentiment Class Count: 
+Neutral     276
+Positive    143
+Negative     81
+
+Sentiment Class Frequency: 
+Neutral     0.552
+Positive    0.286
+Negative    0.162
+
