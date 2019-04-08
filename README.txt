@@ -1,8 +1,11 @@
-Before running this code:
+Before running assessment_2.py:
     
+    - PLease ensure that 'authentication.py' and 'languages.py' are downloaded into 
+      working directory.
     - Please install tweepy, textblob and tkinter within the command prompt. 
     - Please set up a Twitter API and input your access/consumers tokens and
       secrets into 'authentication.py'.
+    
 
 Running this code:
     
